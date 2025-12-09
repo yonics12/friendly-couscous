@@ -79,3 +79,4 @@ msconfig              # System Configuration
 eventvwr              # Event Viewer
 services.msc          # Manage services
 ```
+[Others](https://github.com/yonics12/friendly-couscous/blob/main/useful-win.md)
