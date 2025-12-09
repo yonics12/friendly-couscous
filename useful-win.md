@@ -103,6 +103,9 @@ rename OldFolder NewFolder
 ```
 
 ## 4. Disk & System Utilities
+
+Warning! these running with administrator
+
 ```bat
 :: Check disk and fix errors (may require reboot)
 chkdsk C: /F
